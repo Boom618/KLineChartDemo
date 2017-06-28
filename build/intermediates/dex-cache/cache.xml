@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/boomhe/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/Users/boomhe/AndroidProject/KLineChartDemo/app/build/intermediates/pre-dexed/debug/gson-2.6.2_9c85e14190b5d05c49a998498bcde17156a9fff8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boomhe/.android/build-cache/abcf991617bb194b98125f151f927a8592f3ff3f/output/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/boomhe/AndroidProject/KLineChartDemo/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_dc746719de49a71c2a8fa4201b7f669083ccdd8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boomhe/.android/build-cache/dd8e36a2ea0d3661471fed2fe1d36183bfcec9be/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/boomhe/AndroidProject/KLineChartDemo/app/build/intermediates/pre-dexed/debug/classes_7bd6714a6ec20d6010cd91bf55bb561d5fa5558f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boomhe/AndroidProject/KLineChartDemo/MPChartLib/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4d3eaddd0ec0bb74a28b1b8f682e3aa21a6824a">
+        <dex dex="/Users/boomhe/AndroidProject/KLineChartDemo/app/build/intermediates/pre-dexed/debug/classes_a092c963fe9b98d4f398ac62447f7096d3df1fbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boomhe/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/boomhe/AndroidProject/KLineChartDemo/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_b06f03df05442f01b305db5c2dcd9a24d52084bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boomhe/.android/build-cache/abcf991617bb194b98125f151f927a8592f3ff3f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/boomhe/AndroidProject/KLineChartDemo/app/build/intermediates/pre-dexed/debug/classes_cd3557dbcc82d9b5a87e9648172671c83cff65d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boomhe/.android/build-cache/e72228d022a07ce2f2b326cea65dff6962f4cf45/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/boomhe/AndroidProject/KLineChartDemo/app/build/intermediates/pre-dexed/debug/classes_0280f3a75377493f576b1bd041b61d7b9797525a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boomhe/.android/build-cache/c0e9fd49d8c17b35cbc73a2b07d8253fa3fc2f6b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/boomhe/AndroidProject/KLineChartDemo/app/build/intermediates/pre-dexed/debug/classes_78f25cd85133dcd04fe9e31752cdacd15adf7ca9.jar" />
+    </item>
+
+</items>
